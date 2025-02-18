@@ -22,11 +22,11 @@
   "dependencies": {
     "@octokit/auth-app": "^7.0.0",
     "@octokit/auth-unauthenticated": "^6.0.0",
-    "@octokit/core": "^6.1.2",
-    "@octokit/oauth-app": "^7.0.0",
-    "@octokit/plugin-paginate-rest": "^11.0.0",
+    "@octokit/core": "^6.1.4",
+    "@octokit/oauth-app": "^7.1.6",
+    "@octokit/plugin-paginate-rest": "^11.4.1",
     "@octokit/types": "^13.0.0",
-    "@octokit/webhooks": "^13.0.0"
+    "@octokit/webhooks": "^13.6.1"
   },
   "devDependencies": {
     "@octokit/tsconfig": "^4.0.0",
